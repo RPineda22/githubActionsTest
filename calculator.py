@@ -53,8 +53,8 @@ def divide(x: float, y: float) -> float:
     return x / y
 
 # Example usage:
-num1 = 10.0
-num2 = 5.0
+num1 = 6
+num2 = 9
 
 result_addition = add(num1, num2)
 result_subtraction = subtract(num1, num2)
