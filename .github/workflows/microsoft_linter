@@ -1,0 +1,3 @@
+- name: Python Actions Collection
+  uses: microsoft/action-python@0.7.2
+            
